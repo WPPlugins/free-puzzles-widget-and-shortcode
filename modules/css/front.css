@@ -1,0 +1,43 @@
+#status_div{
+	display:none;
+}
+.hidden{
+  display:none !important;
+}
+
+.clearfix{
+  clear:both;
+}
+.error_msg{
+	padding: 9px 6px 10px;
+background: coral;
+border: 1px dotted red;
+border-radius: 2px;
+-webkit-border-radius: 2px;
+-moz-border-radius: 2px;
+color:#fff;
+}
+.conf_msg{
+	padding: 9px 6px 10px;
+	background: #CF9;
+	border: 1px dotted #9C0;
+	border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	color:#fff;
+}
+#status_ajax{
+	display:none;
+}
+.puzzle_container{
+	text-align:center;
+}
+.how_to_info{
+	margin:5px 0px;
+	text-align:center;
+	font-size:12px;
+}
+.clue_answer{
+	text-align:center;
+	font-size:12px;
+}
